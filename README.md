@@ -57,11 +57,11 @@ Path: `src/app/app.routes.ts`
 ```
 5. CRUD Operations Implementation
 Implement the following in UserComponent:
-
+`
 Create: Add new user
 Update: Edit existing user
 Delete: Remove user
-
+`
 6. Error Handling
 Implement comprehensive error handling in UserComponent for all CRUD operations.
 
